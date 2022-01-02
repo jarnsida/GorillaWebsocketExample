@@ -7,4 +7,4 @@ Using Live Server start index.html
 
 Check in browser console websocket state
 
-![result](img/result.png)
+![result](./img/result.png)
